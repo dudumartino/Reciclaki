@@ -1,0 +1,30 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: "Reciclaki: plataforma contra a gestão inadequada e a desinformação sobre resíduos sólidos urbanos"
+authors:
+  - family-names:
+    given-names:
+  - family-names:
+    given-names:
+  - family-names:
+    given-names:
+  - family-names:
+    given-names:
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names:
+    given-names:
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names:
+    given-names:
+keywords:
+  - resíduos sólidos urbanos
+  - reciclagem
+  - logística reversa
+  - coleta seletiva
+  - sustentabilidade
+repository-code:
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2026-12-01
