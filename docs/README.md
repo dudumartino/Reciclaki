@@ -5,13 +5,13 @@ Informações básicas do projeto.
 - **Projeto:** Reciclaki
 - **Repositório GitHub:** https://github.com/dudumartino/Reciclaki
 - **Membros da equipe:**
-  - Amanda Pimenta (https://github.com/userAmanda) 
-  - Bruna Scalabrini (https://github.com/userBruna)
-  - Davi Lavalle (https://github.com/userDavi)
+  - Amanda Pimenta (https://github.com/amandapfig) 
+  - Bruna Scalabrini (https://github.com/scalabrinibruna)
+  - Davi Lavalle (https://github.com/--)
   - Eduardo Martino (https://github.com/dudumartino)
-  - Maria Eduarda Brito (https://github.com/userMaria)
-  - Murilo Domene (https://github.com/userMurilo)
-  - Túlio Furst (https://github.com/userTulio)
+  - Maria Eduarda Brito (https://github.com/maria-brito15)
+  - Murilo Domene (https://github.com/Murilo281107)
+  - Túlio Furst (https://github.com/TulioFurst)
 
 A documentação do projeto é estruturada da seguinte forma:
 
